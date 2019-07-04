@@ -4,7 +4,7 @@
 **Stand 2013**  
 
 
-##1. Abschnitt: Turnierschiedsgericht
+## 1. Abschnitt: Turnierschiedsgericht
 
 **§ 1 Zuständigkeit**
 
@@ -41,9 +41,9 @@ Ist bei einer Meisterschaft oder einem Wettbewerb ein Hauptschiedsrichter einges
 
 **§ 7 Verfahren und Entscheidung**
 
-Das TSG hört die Beteiligten und eventuelle Zeugen an und soll dem Nationalen Spielleiter Gelegenheit zur Stellungnahme geben. Die Gestaltung des Verfahrens erfolgt nach Zweckmäßigkeitsgesichtspunkten. Das TSG entscheidet abschließend. Die getroffene Entscheidung ist schriftlich zu begründen und den beteiligten Parteien sowie dem Turnierleiter oder dem Hauptschiedsrichter unverzüglich bekannt zu geben.
+Das TSG hört die Beteiligten und eventuelle Zeugen an und soll dem zuständigen Nationalen Spielleiter Gelegenheit zur Stellungnahme geben. Die Gestaltung des Verfahrens erfolgt nach Zweckmäßigkeitsgesichtspunkten. Das TSG entscheidet abschließend. Die getroffene Entscheidung ist schriftlich zu begründen und den beteiligten Parteien sowie dem Turnierleiter oder dem Hauptschiedsrichter unverzüglich bekannt zu geben.
 
-##2. Abschnitt: Schiedsgericht
+## 2. Abschnitt: Schiedsgericht
 
 **§ 8 Zuständigkeit**
 
