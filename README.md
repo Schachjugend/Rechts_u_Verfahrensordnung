@@ -1,6 +1,6 @@
 # Rechts und Verfahrensordnung der Deutschen Schachjugend
 
-Dieses Git-Repository enthält die Jugendordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. 
+Dieses Git-Repository enthält die Rechts- und Verfahrensordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. 
 
 # Warum Git und Markdown?
 
