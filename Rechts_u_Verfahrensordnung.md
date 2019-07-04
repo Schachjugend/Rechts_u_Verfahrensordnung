@@ -1,7 +1,7 @@
 # Rechts- und Verfahrensordnung der Deutschen Schachjugend
 
 
-**Stand 2013**  
+**Stand 2019**  
 
 
 ## 1. Abschnitt: Turnierschiedsgericht
@@ -113,6 +113,6 @@ Ergänzend gelten die Bestimmungen der Zivilprozessordnung über Ausschließung 
 Ablehnung von Gerichtspersonen sowie über die Wiedereinsetzung in den vorigen Stand nach unverschuldeter Fristversäumung.
 
 *Beschlossen auf der Jugendversammlung in Eisenach 2005,
-aktualisiert durch die Jugendversammlung in Koblenz 2013*
+aktualisiert durch die Jugendversammlung in Potsdam 2019*
 
 
