@@ -1,6 +1,6 @@
-# Rechts und Verfahrensordnung der Deutschen Schachjugend
+# Rechts- und Verfahrensordnung der Deutschen Schachjugend
 
-Dieses Git-Repository enthält die Rechts- und Verfahrensordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. 
+Dieses Git-Repository enthält die Rechts- und Verfahrensordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format.
 
 # Warum Git und Markdown?
 
@@ -13,11 +13,11 @@ Dieses Git-Repository ist in Anlehnung an das [@bundesgit](https://github.com/bu
 
 # Änderungen
 
-Vorschläge für konkrete Änderungen werden als [Issues](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/issues) bzw. [Pull Requests](https://github.com/Schachjugend/Jugendordnung/pulls) angelegt. Ehemalige Änderungsanträge mitsamt Begründungen lassen sich dort als geschlossene [Pull Requests](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls?state=closed) nachvollziehen.
+Vorschläge für konkrete Änderungen werden als [Issues](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/issues) bzw. [Pull Requests](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls) angelegt. Ehemalige Änderungsanträge mitsamt Begründungen lassen sich dort als geschlossene [Pull Requests](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls?state=closed) nachvollziehen.
 
 Nützliche Links:
 
 * Ausformulierte Änderungsvorschläge: [offen](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls?q=is%3Aopen+is%3Apr) und [bearbeitet](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls?q=is%3Apr+is%3Aclosed)
-* Änderungswünsche: [offen](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls?q=is%3Aopen) und [bearbeitet](https://github.com/Schachjugend/Jugendordnung/issues?q=is%3Aclosed)
+* Änderungswünsche: [offen](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/pulls?q=is%3Aopen) und [bearbeitet](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/issues?q=is%3Aclosed)
 * [Versionsgeschichte](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/commits/master/Rechts_u_Verfahrensordnung.md)
 * [Versionsvergleich](https://github.com/Schachjugend/Rechts_u_Verfahrensordnung/compare)
