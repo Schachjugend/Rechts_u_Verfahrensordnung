@@ -1,7 +1,7 @@
 # Rechts- und Verfahrensordnung der Deutschen Schachjugend
 
 
-**Stand 2019**  
+**Stand 22.08.2020**  
 
 
 ## 1. Abschnitt: Turnierschiedsgericht
@@ -112,7 +112,6 @@ Proteste haben keine aufschiebende Wirkung. Der Vorsitzende ist befugt, vorläuf
 Ergänzend gelten die Bestimmungen der Zivilprozessordnung über Ausschließung und
 Ablehnung von Gerichtspersonen sowie über die Wiedereinsetzung in den vorigen Stand nach unverschuldeter Fristversäumung.
 
-*Beschlossen auf der Jugendversammlung in Eisenach 2005,
-aktualisiert durch die Jugendversammlung in Potsdam 2019*
+*Beschlossen auf der Jugendversammlung am 22.08.2020 in Magdeburg.*
 
 
